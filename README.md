@@ -1,6 +1,6 @@
 # 📌 Cotizador de criptomonedas con React
 
-¡Hola! Esta es una aplicación desarrollada con React, una página de cotización de criptomonedas interactiva que realiza consultas a una API pública para extraer las 10 principales criptomonedas y también, realizar la cotización a la moneda seleccionada.
+¡Hola! Esta es una aplicación desarrollada con React, una página de cotización de criptomonedas interactiva que realiza consultas a una API pública para extraer las 10 principales criptomonedas y también realizar la cotización a la moneda seleccionada. Asimismo, se utilizó Styled Components para darle estilo a la página y Custom Hooks.
 
 ## Ejecutar la Aplicación
 
